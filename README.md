@@ -2,7 +2,13 @@
 
 Repositorio de problemas de Resistencia de Materiales resueltos con Python. Este repositorio se ha creado durante los cursos académicos 2019-2020, 2020-2021 y 2021-2022 para la asignatura Resistencia de Materiales del Grado en Ingeniería de Organización Industrial (Perfil defensa) del Centro Universitario de la Defensa (Universidad de Zaragoza).
 
-Este trabajo se enmarca dentro del Proyecto de Innovación Docente "Programación numérica mediante Python como herramienta de aprendizaje en la asignatura de Resistencia de Materiales"
+Autores:
+
+- Sergio Gutiérrez Rodrigo
+- Adeline Rezeau
+- Adrián Navas Montilla
+
+Este trabajo se enmarca dentro del Proyecto de Innovación Docente **"Programación numérica mediante Python como herramienta de aprendizaje en la asignatura de Resistencia de Materiales"**
 
 Detalles del Proyecto:
 
@@ -24,9 +30,5 @@ Unidad de planificación: 	282 (Departamento de Ciencia y Tecnología de Materia
 
 Coordinador: 	Adrián Navas Montilla
 
-Autores:
 
-- Sergio Gutiérrez Rodrigo
-- Adeline Rezeau
-- Adrián Navas Montilla
 
